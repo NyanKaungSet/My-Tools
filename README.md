@@ -1,6 +1,7 @@
 # Student-Tools
 
-Useful tools for everyone especially for students including - 
+Useful tools for everyone especially for students.
+Many tools including - 
 
 * Calculator
 * To Do List
