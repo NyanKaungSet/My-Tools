@@ -14,7 +14,8 @@ GardenNet is a community for gardeners and the people who interested in planting
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={YaeThawe}">
 <img src="https://activity-graph.herokuapp.com/graph?username={YaeThawe}&theme=minimal">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={YaeThawe}&theme=vue">
-<img src="	https://github-readme-stats.vercel.app/api?username={YaeThawe}">
+<img src="https://github-readme-stats.vercel.app/api?username={YaeThawe}">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{NyanKaungSet}1212%2Fhit-counter">
 <a id="how_to_use"></a>
 # How To Use
 ### Getting Started
