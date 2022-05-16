@@ -29,14 +29,14 @@ GardenNet is a community for gardeners :farmer: and the people who interested in
 - :point_right: Go to Sign up section, fill your name, email and password.
 - :point_right: When sign up is successful, it will be automatically login.
     - However, if it doesn't automatically login, go to login section.
-    - :Fill your ID (You will get an ID, when sign up is successfully.) Password is the one you filled in sign up section.
+    - Fill your ID (You will get an ID, when sign up is successful.) Password is the one you filled in sign up section.
     - If you don't remember your ID or password, feel free to send message to yeaethawe@gmail.com or nyankaungset2007@gmail.com. Your email should be included your name and email address you filled in sign up section.
 *****
 ### :key: Uploading posts
-You can create your own post too!
-- :point_right: Scroll down until you see the "Post Creator"
+You can create your own posts too!
+- :point_right: Scroll down until you see the "Post Creator".
 - :point_right: Enter your post title. You can write anything you want to share or what you have experienced in planting. 
-- :point_right: If you need help simply click the "help". You can also connect us for more infomation.
+- :point_right: If you need help simply click the "help". You can also contact us for more infomation.
 - :point_right: After that, click "post", you will get URL of your post. Copy and paste it in your browser.
 - :point_right: BOOM! You successfully created your first post! Congrat!!!
 - :point_right: You can also add your post to Explore (Archive).
