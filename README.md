@@ -24,11 +24,11 @@ GardenNet is a community for gardeners :farmer: and the people who interested in
 # How To Use :thinking:
 ### :key: Getting Started
 - :point_right: First of all, you have to make an account. 
-    - Go to Sign up section, fill your name, email and password.
+- Go to Sign up section, fill your name, email and password.
 - :point_right: When sign up is successfully, it will be automatically login.
-    - However, if it doesn't automatically login, go to login section.
-    - Fill your ID (You will get an ID, when sign up is successfully.) Password is the one you filled in sign up section.
-    - If you don't remember your ID or password, feel free to send message to yeaethawe@gmail.com or nyankaungset2007@gmail.com. Your email should be included your name and email address you filled in sign up section.
+    - :heavy_check_mark: However, if it doesn't automatically login, go to login section.
+    - :heavy_check_mark: Fill your ID (You will get an ID, when sign up is successfully.) Password is the one you filled in sign up section.
+    - :heavy_check_mark: If you don't remember your ID or password, feel free to send message to yeaethawe@gmail.com or nyankaungset2007@gmail.com. Your email should be included your name and email address you filled in sign up section.
 
 ### :key: Uploading posts
 You can create your own post too!
