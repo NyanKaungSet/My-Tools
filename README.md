@@ -23,34 +23,34 @@ GardenNet is a community for gardeners:farmer: and the people who interested in 
 <a id="how_to_use"></a>
 # How To Use :thinking:
 ### :key: Getting Started
-- First of all, you have to make an account. 
+- :point_right:First of all, you have to make an account. 
     - Go to Sign up section, fill your name, email and password.
-- When sign up is successfully, it will be automatically login.
+- :point_right:When sign up is successfully, it will be automatically login.
     - However, if it doesn't automatically login, go to login section.
     - Fill your ID (You will get an ID, when sign up is successfully.) Password is the one you filled in sign up section.
     - If you don't remember your ID or password, feel free to send message to yeaethawe@gmail.com or nyankaungset2007@gmail.com. Your email should be included your name and email address you filled in sign up section.
 
 ### :key: Uploading posts
 You can create your own post too!
-- Scroll down until you see the "Post Creator"
-- Enter your post title. You can write anything you want to share or what you have experienced in planting. 
-- If you need help simply click the "help". You can also connect us for more infomation.
-- After that, click "post", you will get URL of your post. Copy and paste it in your browser.
-- BOOM! You successfully created your first post! Congrat!!!
-- You can also add your post to Explore (Archive).
+- :point_right:Scroll down until you see the "Post Creator"
+- :point_right:Enter your post title. You can write anything you want to share or what you have experienced in planting. 
+- :point_right:If you need help simply click the "help". You can also connect us for more infomation.
+- :point_right:After that, click "post", you will get URL of your post. Copy and paste it in your browser.
+- :point_right:BOOM! You successfully created your first post! Congrat!!!
+- :point_right:You can also add your post to Explore (Archive).
 
 ### :key: Adding your post to Explore (Archive)
-- There is inbox section above the Post Creator.
-- Type your title in first box, and your body text in second box. 
-- Then click "Add to Explore".
-- Go to Explore. You will see you post and others post.
-- If you don't see your post, please wait a moment.
+- :point_right:There is inbox section above the Post Creator.
+- :point_right:Type your title in first box, and your body text in second box. 
+- :point_right:Then click "Add to Explore".
+- :point_right:Go to Explore. You will see you post and others post.
+- :point_right:If you don't see your post, please wait a moment.
 
 ### :key: Creating and Joining Chatting Channels
 Every chat can have 2 or more than 2 members.
-- If you want to create chanel, click "Creat Chat".
-- The page will ask you to enter chat ID (e.g : examplechat001) . It will become the chat name.
-- You can delete and edit your messages.
-- If you are the owner of the chat, you can clean the channels.
+- :point_right:If you want to create chanel, click "Creat Chat".
+- :point_right:The page will ask you to enter chat ID (e.g : examplechat001) . It will become the chat name.
+- :point_right:You can delete and edit your messages.
+- :point_right:If you are the owner of the chat, you can clean the channels.
 
 **Note: You cannot transfer the channel ownership**
