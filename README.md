@@ -53,4 +53,4 @@ Every chat can have 2 or more than 2 members.
 - :point_right: You can delete and edit your messages.
 - :point_right: If you are the owner of the chat, you can clean the channels.
 
-**Note: :no_entry_sign: You cannot transfer the channel ownership**
+**Note: You cannot transfer the channel ownership :no_entry_sign:**
