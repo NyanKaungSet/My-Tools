@@ -5,7 +5,9 @@
 
 <a id="introduction"></a>
 # Introduction
-A community for gardeners and the people who interested in planting.
+GardenNet is a community for gardeners and the people who interested in planting.
+[x] Free to use.
+[x] No additonal charges
 
 <a id="how_to_use"></a>
 # How To Use
