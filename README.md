@@ -1,4 +1,4 @@
-[Headings IDs]{## lorem ipsum}
+[Headings IDs]{#abc-id}
 # My-Tools
 
 Variety of free useful tools for everyone especially for students.<br>
@@ -22,7 +22,7 @@ lorem ipsum
 
 lorem ipsum 
 
-## lorem ipsum
+## lorem ipsum {#abc-id}
 
 
 abc
