@@ -1,13 +1,13 @@
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Yaethwe}1212%2Fhit-counter"><br>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/netlify-#00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 # Table of Contents
 
 1. [Introduction](#introduction)
 2. [How to Use](#how_to_use)
 
 <a id="introduction"></a>
-# Introduction
+# :key: Introduction
 GardenNet is a community for gardeners and the people who interested in planting.
 <br><br><br><br>
 ***Made With*** 
