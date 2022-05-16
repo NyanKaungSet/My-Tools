@@ -24,7 +24,7 @@ GardenNet is a community for gardeners :farmer: and the people who interested in
 # How To Use :thinking:
 ### :key: Getting Started
 - :point_right: First of all, you have to make an account. 
-- :poinr_right: Go to Sign up section, fill your name, email and password.
+- :point_right: Go to Sign up section, fill your name, email and password.
 - :point_right: When sign up is successfully, it will be automatically login.
     - However, if it doesn't automatically login, go to login section.
     - :Fill your ID (You will get an ID, when sign up is successfully.) Password is the one you filled in sign up section.
