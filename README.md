@@ -11,10 +11,10 @@ GardenNet is a community for gardeners and the people who interested in planting
 - [x] No additonal charges
 
 **Languages use**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={YeaeThawe}">
-<img src="https://activity-graph.herokuapp.com/graph?username={YeaeThawe}&theme=minimal">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={YeaeThawe}&theme=vue">
-<img src="	https://github-readme-stats.vercel.app/api?username={YeaeThawe}">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={YaeThawe}">
+<img src="https://activity-graph.herokuapp.com/graph?username={YaeThawe}&theme=minimal">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={YaeThawe}&theme=vue">
+<img src="	https://github-readme-stats.vercel.app/api?username={YaeThawe}">
 <a id="how_to_use"></a>
 # How To Use
 ### Getting Started
