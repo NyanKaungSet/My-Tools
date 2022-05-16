@@ -22,12 +22,6 @@ GardenNet is a community for gardeners :farmer: and the people who interested in
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Yaethwe&theme=minimal">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yaethwe&theme=vue">
-<img src="https://github-readme-stats.vercel.app/api?username=Yaethwe">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaethwe">
-<img src="https://github-profile-trophy.vercel.app/?username=Yaethwe">
-
 <a id="how_to_use"></a>
 # How To Use :thinking:
 ### :key: Getting Started
