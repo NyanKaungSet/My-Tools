@@ -48,9 +48,9 @@ You can create your own post too!
 
 ### :key: Creating and Joining Chatting Channels
 Every chat can have 2 or more than 2 members.
-- :point_right: If you want to create chanel, click "Creat Chat".
+- :point_right: If you want to create channel, click "Create Chat".
 - :point_right: The page will ask you to enter chat ID (e.g : examplechat001) . It will become the chat name.
 - :point_right: You can delete and edit your messages.
-- :point_right: If you are the owner of the chat, you can clean the channels.
+- :point_right: If you are the owner of the chat, you can even clean the channels.
 
 **Note: You cannot transfer the channel ownership :no_entry_sign:**
