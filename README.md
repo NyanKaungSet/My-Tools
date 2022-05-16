@@ -1,4 +1,4 @@
-(https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+!(https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 # Table of Contents
 
 1. [Introduction](#introduction)
