@@ -48,7 +48,7 @@ You can create your own posts too!
 - :point_right: Go to Explore. You will see you post and others post.
 - :point_right: If you don't see your post, please wait a moment.
 *****
-### :key: Creating and Joining Chatting Channels
+### :key: Creating and Joining Chat Channels
 Every chat can have 2 or more than 2 members.
 - :point_right: If you want to create channel, click "Create Chat".
 - :point_right: The page will ask you to enter chat ID (e.g : examplechat001) . It will become the chat name.
