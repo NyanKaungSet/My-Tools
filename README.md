@@ -10,10 +10,11 @@ GardenNet is a community for gardeners and the people who interested in planting
 - [x] Free to use.
 - [x] No additonal charges
 
-**Languages use**
+***Languages Use***<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
 <a id="how_to_use"></a>
 # How To Use
 ### Getting Started
