@@ -40,4 +40,4 @@ Every chat can have 2 or more than 2 members.
 - You can delete and edit your messages.
 - If you are the owner of the chat, you can clean the channels.
 
-** Note: You cannot transfer the channel ownership **
+**Note: You cannot transfer the channel ownership**
