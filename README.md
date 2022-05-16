@@ -7,14 +7,11 @@ A community for gardeners and the people who interested in planting.
 1. [Introduction](#introduction)
 2. [How to Use](#how_to_use)
 
-*****
 <a id="introduction></a>
 # Introduction
-
-*****
  
 <a id="how_to_use"></a>
-#How To Use
+# How To Use
 
 - First of all, you have to make an account. 
     - Go to Sign up section, fill your name, email and password.
