@@ -38,5 +38,6 @@ Every chat can have 2 or more than 2 members.
 - If you want to create chanel, click "Creat Chat".
 - The page will ask you to enter chat ID (e.g : examplechat001) . It will become the chat name.
 - You can delete and edit your messages.
-- If you are the owner of the chat, you can clean the channels.<br>
-Note: ** You cannot transfer the channel ownership **
+- If you are the owner of the chat, you can clean the channels.
+
+** Note: You cannot transfer the channel ownership **
