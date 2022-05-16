@@ -1,4 +1,4 @@
-[Headings IDs]{#abc-id}
+[Headings IDs](#abc-id)
 # My-Tools
 
 Variety of free useful tools for everyone especially for students.<br>
