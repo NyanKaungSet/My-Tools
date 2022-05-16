@@ -8,7 +8,7 @@
 
 <a id="introduction"></a>
 # Introduction
-GardenNet is a community for gardeners :farmer: and the people who interested in planting:seedling:.
+GardenNet is a community for gardeners :farmer: and the people who interested in planting :seedling:.
 <br><br><br><br>
 ***Made With :technologist:*** 
 <br>
