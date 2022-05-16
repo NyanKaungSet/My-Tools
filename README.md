@@ -1,4 +1,4 @@
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Yaethwe}1212%2Fhit-counter"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Yaethwe}1212%2Fhit-counter"><br><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 # Table of Contents
 
 1. [Introduction](#introduction)
@@ -11,10 +11,9 @@ GardenNet is a community for gardeners and the people who interested in planting
 - [x] No additonal charges
 
 **Languages use**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Yaethwe}">
-<img src="https://activity-graph.herokuapp.com/graph?username={Yaethwe}&theme=minimal">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Yaethwe}&theme=vue">
-<img src="https://github-readme-stats.vercel.app/api?username={Yaethwe}">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <a id="how_to_use"></a>
 # How To Use
 ### Getting Started
