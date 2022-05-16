@@ -6,8 +6,8 @@
 <a id="introduction"></a>
 # Introduction
 GardenNet is a community for gardeners and the people who interested in planting.
-[x] Free to use.
-[x] No additonal charges
+- [x] Free to use.
+- [x] No additonal charges
 
 <a id="how_to_use"></a>
 # How To Use
