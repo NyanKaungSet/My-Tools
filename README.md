@@ -29,7 +29,7 @@ GardenNet is a community for gardeners :farmer: and the people who interested in
     - However, if it doesn't automatically login, go to login section.
     - :Fill your ID (You will get an ID, when sign up is successfully.) Password is the one you filled in sign up section.
     - If you don't remember your ID or password, feel free to send message to yeaethawe@gmail.com or nyankaungset2007@gmail.com. Your email should be included your name and email address you filled in sign up section.
-
+*****
 ### :key: Uploading posts
 You can create your own post too!
 - :point_right: Scroll down until you see the "Post Creator"
@@ -38,14 +38,14 @@ You can create your own post too!
 - :point_right: After that, click "post", you will get URL of your post. Copy and paste it in your browser.
 - :point_right: BOOM! You successfully created your first post! Congrat!!!
 - :point_right: You can also add your post to Explore (Archive).
-
+*****
 ### :key: Adding your post to Explore (Archive)
 - :point_right: There is inbox section above the Post Creator.
 - :point_right: Type your title in first box, and your body text in second box. 
 - :point_right: Then click "Add to Explore".
 - :point_right: Go to Explore. You will see you post and others post.
 - :point_right: If you don't see your post, please wait a moment.
-
+*****
 ### :key: Creating and Joining Chatting Channels
 Every chat can have 2 or more than 2 members.
 - :point_right: If you want to create channel, click "Create Chat".
