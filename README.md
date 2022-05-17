@@ -5,10 +5,12 @@
 # Table of Contents
 1. [Introduction](#introduction)
 2. [How to Use](#how_to_use)
+3. [Contact Us](#contact_us)
 
 <a id="introduction"></a>
 # Introduction
 GardenNet is a community for gardeners :farmer: and the people who interested in planting :seedling:.
+We continuously update our website. If you have a suggestion, do not hesitate. We are always welcome.
 <br><br><br><br>
 ***Made With :technologist:*** 
 <br>
@@ -55,3 +57,8 @@ Every chat can have 2 or more than 2 members.
 - :point_right: If you are the owner of the chat, you can even clean the all the messages.
 
 **Note: You cannot transfer the channel ownership :no_entry_sign:**
+
+<a id="contact_us"></a>
+# Contact Us
+* [Yae Thwe](https://yeaethawe.netlify.app/)
+* [Nyan Kaung Set](https://challenger7.netlify.app/personalprofile/)
