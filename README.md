@@ -60,5 +60,5 @@ Every chat can have 2 or more than 2 members.
 
 <a id="contact_us"></a>
 # Contact Us
-* [Yae Thwe](https://yeaethawe.netlify.app/)
+* [Yae Thawe](https://yeaethawe.netlify.app/)
 * [Nyan Kaung Set](https://challenger7.netlify.app/personalprofile/)
