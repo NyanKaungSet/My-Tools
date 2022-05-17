@@ -3,7 +3,6 @@
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 # Table of Contents
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyanKaungSet">
 1. [Introduction](#introduction)
 2. [How to Use](#how_to_use)
 
